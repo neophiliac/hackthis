@@ -1,0 +1,6 @@
+Visit data.gov, choose a dataset (or two! or three!) and build a tool to allow people to get useful information from the data.
+Fix a bug in your favorite project on github.
+Find someone who looks frustrated and ask if you can help them.
+Get the source for this site and add more hacks.
+Get the source for this site and make it use a database.
+Get the source for this site and add a form so anyone can add new hacks.
