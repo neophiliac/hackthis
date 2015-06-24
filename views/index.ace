@@ -5,3 +5,6 @@ html lang=en
     title Hacks
   body
     h1 {{.hack}}
+    br
+    br
+    a href=https://github.com/neophiliac/hackthis Get source!
